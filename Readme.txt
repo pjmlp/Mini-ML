@@ -5,5 +5,4 @@ This was originally done in Caml Light as a team project.
 
 Please check the manual.html file for more information.
 
---
-Paulo Pinto
+A Visual Studio 2010 project file is available (mini-ml.fsproj).
