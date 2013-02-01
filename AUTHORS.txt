@@ -1,0 +1,4 @@
+These are the authors responsible for mini-ml:
+
+ - Paulo Pinto   (F# and original Caml Light versions)
+ - Pablo Tavares (original Caml Light version)
